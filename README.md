@@ -180,4 +180,5 @@ python -m py_compile telemetry.py discovery.py server.py
 
 ## 许可证
 
-[MIT](LICENSE)。仓库内分发的 AI 生成主题背景同样采用 MIT 许可。
+- **代码与文档**：[MIT](LICENSE)。
+- **主题背景 `web/background.png`**：[CC BY-ND 4.0（署名—禁止演绎）](https://creativecommons.org/licenses/by-nd/4.0/deed.zh-hans)。署名为 **cynthia-yuxin**；允许按许可条款分享原图，不得分发改编后的图像。详见[背景图片许可](web/background.LICENSE.md)。
